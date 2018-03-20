@@ -1,0 +1,23 @@
+{
+  "name": "graphql-test-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dv1pr/graphql-test-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dv1pr/graphql-test-setup/issues"
+  },
+  "homepage": "https://github.com/dv1pr/graphql-test-setup#readme",
+  "dependencies": {
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2"
+  }
+}
